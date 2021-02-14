@@ -1,0 +1,35 @@
+{
+  "name": "wecancode-intermediate",
+  "title": "My most beautiful travel places",
+  "description": "Share your most beautiful travel experiences with friends, vote for best places to visit. For We can code event purposes. @KAYAK @NFQ",
+  "version": "1.0.0",
+  "author": "KAYAK",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.4.0",
+    "@material-ui/icons": "^3.0.1",
+    "firebase": "^5.5.7",
+    "material-ui": "0.20.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "^2.1.1",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/node": "^7.0.0",
+    "@babel/plugin-proposal-class-properties": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "create-react-app": "2.1.1",
+    "node-sass": "^4.10.0"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}

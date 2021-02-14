@@ -1,0 +1,16 @@
+.media {
+  height: 200px;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 10px;
+}
+
+.actions {
+  display: flex;
+  margin: 10px 0;
+}

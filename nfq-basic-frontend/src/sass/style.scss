@@ -1,0 +1,15 @@
+body {
+    font-family: Helvetica;
+}
+
+.content {
+    margin: 100px;
+
+    &--centered {
+        text-align: center;
+    }
+
+    &__description {
+        color: #999;
+    }
+}

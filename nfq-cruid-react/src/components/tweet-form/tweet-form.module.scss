@@ -1,0 +1,28 @@
+.modal {
+  position: absolute;
+  top: 200px;
+  left: calc(50% - 240px);
+  display: flex;
+  flex-direction: column;
+  width: 480px;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 40px;
+  outline: none;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.input {
+  margin: 10px 0;
+}
+.actions {
+  display: flex;
+  margin: 10px 0;
+}
+.button {
+  flex: 1;
+  margin: 0 10px;
+}
